@@ -14,7 +14,7 @@ I can speak fluent Klingon.
 
 <!-- ⬇️ COPY THE TEMPLATE BELOW THIS LINE ⬇️ -->
 
-Aleksandr Fomkin
+Aleksandr Fomkin.
 I own a cat
 
 I have 2 siblings
